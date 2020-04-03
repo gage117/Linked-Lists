@@ -20,7 +20,7 @@
 - reverseList(linkedList): Takes a linked list as an argument. Returns the linked list in reverse order.
 
 ### Additional functions in each file:
-linkedList.js:
+singlyLinkedList.js:
 - findPrevious(item): Takes an item as an argument. Returns the item in the list before the specified item.
 - reverseSecondHalf(linkedList): Takes a linked list as an argument. If list length is odd, second half is half-length rounded down (i.e.: listLength = 5 means secondHalf is 2 items, or 2.5 rounded down). Returns the linked list with only the second half reversed.
 - thirdFromEnd(linkedList): Takes a linked list as an argument. Returns item three positions in from the last.
